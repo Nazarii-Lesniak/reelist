@@ -1,0 +1,5 @@
+# Run formatting and lint fixes on staged files only.
+npx lint-staged
+
+# Check the source tree's Feature-Sliced boundaries.
+npm run steiger
